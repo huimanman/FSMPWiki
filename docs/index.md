@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# 这里是FSMP Wiki的首页
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+现在我们有一个Wiki了！
+_这里还没有什么东西...正在建设!_
+![Aloyi说很好!]/assets/aloyi.png
