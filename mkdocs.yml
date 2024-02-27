@@ -1,2 +1,7 @@
 site_name: 欢迎来到FSMP Wiki!
-site_url: https://example.com/
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  name: material
+  palette:
+    primary: white
