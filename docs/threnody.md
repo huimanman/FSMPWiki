@@ -1,4 +1,11 @@
-
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="/threnody.css">
+</head>
+<body>
+    
+</body>
+</html>
 涅格修斯哀悼 Threnody
 =
 <hr>
@@ -6,20 +13,19 @@
 >  **这是一把专属武器: Aloyi_shadow** 
 
 > _"臣服于君王,滥用君王的权利,到最后只会一无所有..."_
-<html>
 <body>
     <style>
-        img{     
+        .threnody_png{     
           position: relative;
           left: 75%;
           bottom: 80px;
           }
     </style>
-    <h1 class="img">
+    <h1 class="threnody_png">
         <img src="../assets/item/threnody.png" alt="threnody.png没有正常加载!" width="7.5%" height="7.5%">
     </h1>
 </body>
-</html>
+
 ### 武器属性
 - 涅格修斯哀悼拥有  **15攻击伤害 1.6攻击速度** 
 
