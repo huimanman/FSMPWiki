@@ -16,7 +16,7 @@
           }
     </style>
     <h1 class="img">
-        <img src="assets/item/threnody.png" alt="threnody.png没有正常加载!" width="7.5%" height="7.5%">
+        <img src="/docs/assets/item/threnody.png" alt="threnody.png没有正常加载!" width="7.5%" height="7.5%">
 
     </h1>
 </body>

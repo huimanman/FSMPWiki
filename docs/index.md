@@ -14,4 +14,4 @@
 </body>
 
 
-<img src="assets/aloyii.png" alt="你没加载出来aloyi说很好" width="1000" height="1000">
+<img src="assets/aloyi.png" alt="你没加载出来aloyi说很好" width="1000" height="1000">
