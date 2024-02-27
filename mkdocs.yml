@@ -1,7 +1,18 @@
-site_name: 欢迎来到FSMP Wiki!
+site_name: FSMP Wiki
 theme:
-  logo: assets/logo.png
-  favicon: assets/logo.png
+#主题和主题色
   name: material
   palette:
     primary: white
+  #网站图标和Logo
+  logo: /assets/logo.png
+  favicon: /assets/logo.png
+  #语言
+  language: zh
+  #加载进度
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+#插件
+plugins:
+  - search
